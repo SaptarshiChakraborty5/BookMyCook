@@ -1,1 +1,1 @@
-# BookMyCook
+BookMyCook is a web-based application designed to simplify the process of finding and booking professional cooks for home or event-based services. The platform connects users with verified cooks based on their location, availability, and preferences.
